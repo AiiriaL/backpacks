@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NSN",
+    "LEL",
+    "KTK"
+  ],
+  "key": {
+    "N": { "item": "minecraft:nether_star" },
+    "S": { "item": "minecraft:nautilus_shell" },
+    "E": { "item": "backpacks:epic_backpack" },
+    "L": { "item": "minecraft:leather" },
+    "K": { "item": "minecraft:chest" },
+    "T": { "item": "minecraft:trident" }
+  },
+  "result": { "item": "backpacks:ultimate_backpack" }
+}

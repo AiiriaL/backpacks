@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "LLL",
+    "KBK"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "L": { "item": "minecraft:leather" },
+    "K": { "item": "minecraft:chest" },
+    "B": { "item": "minecraft:diamond_block" }
+  },
+  "result": { "item": "backpacks:rare_backpack" }
+}
